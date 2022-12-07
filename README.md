@@ -26,7 +26,9 @@
 **Запустить проект**
 
 > php artisan serve
-npm run dev
+
+
+> npm run dev
 
 **Создать базу данных**
 
