@@ -26,6 +26,7 @@ class UserFactory extends Factory
         ];
     }
 
+    //Просто так пишу
     /**
      * Indicate that the model's email address should be unverified.
      *
